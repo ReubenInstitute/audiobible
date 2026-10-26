@@ -1,6 +1,0 @@
-audiobible (1.0) unstable; urgency=medium
-
-  * Initial packaging: one binary package per book/chapter, bundling
-    whichever of original/cloned/english audio exists for that chapter.
-
- -- Reuben Institute <reubeninstitute@gmail.com>  Sat, 26 Sep 2026 23:00:00 +0300
